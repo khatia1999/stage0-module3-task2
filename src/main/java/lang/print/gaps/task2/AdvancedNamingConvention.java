@@ -15,5 +15,6 @@ public class AdvancedNamingConvention {
      public void callByNumber(int number) {
         //some code
 
+
     }
 }
